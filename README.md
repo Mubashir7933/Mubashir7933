@@ -25,18 +25,7 @@
 - 📈 **Monitoring/Logs:** Prometheus, Grafana, ELK Stack (learning)  
 - 📦 **Others:** SQL, REST APIs, Node.js, React (prior experience)
 
----
 
-### 📌 Featured Projects
-
-Here are some of the projects that highlight my journey from programming to DevOps:
-
-- 🚀 [DevOps Portfolio](#) — A hands-on collection of automation and infrastructure projects  
-- 🐳 [Dockerized Web App](#) — A Node.js app with Docker & NGINX reverse proxy setup  
-- ☁️ [AWS Infrastructure as Code](#) — Provisioned EC2, RDS, and S3 using Terraform  
-- 🔧 [CI/CD Pipeline Demo](#) — GitHub Actions workflow to lint, test, and deploy a sample app  
-
-*(Add links once live. I can help polish any of these too.)*
 
 ---
 
@@ -50,9 +39,9 @@ Here are some of the projects that highlight my journey from programming to DevO
 
 ### 📫 Let's Connect
 
-- 📧 Email: mubashir@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK)  
-- 🌐 [Portfolio Website](#) (if available)
+- 📧 Email: mubashir@030601@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mubashir7933/)  
+- 
 
 ---
 
