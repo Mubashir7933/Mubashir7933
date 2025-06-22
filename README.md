@@ -39,7 +39,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email : mubashir@030601@gmail.com 
+- 📧 Email : mubashir030601@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubashir7933/)  
 
 ---
