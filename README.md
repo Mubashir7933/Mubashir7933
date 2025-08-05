@@ -19,7 +19,7 @@
 
 ### 🧰 Tech Stack
 
-- 💻 **Languages:** Python, Bash, JavaScript,PHP,C#,Java  
+- 💻 **Languages:** Python, Bash, JavaScript, PHP, C#, Java  
 - ☁️ **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, Kubernetes, Terraform, GitHub Actions  
 - 🛠️ **Tools:** Git, Linux, NGINX, Jenkins, VS Code  
 - 📈 **Monitoring/Logs:** Prometheus, Grafana, ELK Stack (learning)  
