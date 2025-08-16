@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir</h1>
 
 <p align="center">
-  🎓 MIS Graduate • 💻 Programmer • 🚀 Aspiring DevOps Engineer
+  🎓 MIS Graduate • 💻 Full Stack Developer • 🚀 Aspiring DevOps Engineer
 </p>
 
 ---
